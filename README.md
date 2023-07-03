@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -  Stacks that I know  JS, CSS, HTML, React.js, Next, GitHub, 
 - 📫 How to reach me: 8.mazakina@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazakina&show_icons=true&theme=radical&hide=rank)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazakina&show_icons=true&theme=radical&hide=issues,contribs)
