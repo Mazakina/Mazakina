@@ -9,5 +9,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 -->
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning JS, CSS, HTML, NODE
+- 🌱 I’m currently learning React Native, Node
+-  Stacks that I know  JS, CSS, HTML, React.js, Next, GitHub, 
 - 📫 How to reach me: 8.mazakina@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
