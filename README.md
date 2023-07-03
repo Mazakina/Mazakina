@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact:
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazakina&layout=compact)
+
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning React Native, Node
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazakina&show_icons=true&theme=radical&hide=issues,contribs&hide_rank=true)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazakina&layout=compact&theme=radical)
