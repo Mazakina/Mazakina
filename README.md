@@ -16,14 +16,14 @@ Desenvolvedor Fullstack com foco em arquiteturas modernas e escaláveis. Trabalh
 - **Aplicações JAMStack**: Interfaces otimizadas com Next.js e React
 
 ## 💻 Tecnologias
-- **Frontend**: React, Next.js, TypeScript, HTML5, CSS3, Styled Components, SASS
+- **Frontend**: React, Next.js, TypeScript, HTML5, CSS3, Styled Components, Angular, SASS
 - **Backend**: Node.js, NestJS, Fastify, Prisma ORM
 - **DevOps**: Docker, Git
 - **Testes**: Jest
 - **Banco de Dados**: MySQL
 - 
 ## 📚 Atualmente estudando
-- C#, ASP.NET MVC, SQL Server
+- C#, ASP.NET 
 - Aprofundando conhecimentos em arquiteturas escaláveis
 
 ## 📫 Contato
